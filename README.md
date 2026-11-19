@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <!-- <h1 align="center">Hi 👋, I'm Nitin Mestry</h1> -->
-<h3 align="center">🚀 DevOps Architect | Cloud Enthusiast | Automation Advocate</h3>
+<h3 align="center">🚀 DevSecOps Architect | Cloud Enthusiast | Automation Advocate</h3>
 
 ---
 
